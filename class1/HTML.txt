@@ -1,0 +1,14 @@
+Hypertext (Any clickable text)
+
+
+Markup (Structure)
+
+
+Language (a tool to communicate with the computer)
+
+
+
+A language that is used to put some content on the page is what we call the HTML.
+
+
+Content -> text, video, audio, pdf, images
